@@ -1,3 +1,3 @@
 
-var currentTime = require('../modules/currentTime');
+const currentTime = require('../modules/currentTime');
 currentTime();
